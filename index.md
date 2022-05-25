@@ -1,4 +1,4 @@
-![program](front.jpg)
+![program](cargese2023.jpg)
 
 The past decade brought a revolution to machine learning: algorithms are now able to deal with tasks and amounts of data that seemed to be science fiction only a decade ago. The statistical physics community and the machine learning ones were connected and indeed many concepts and algorithms of machine learning have roots in physics. It is time to revive this connection. This school aims to bring together researchers from machine learning and statistical physics to train a new generation that will be able to take full advantage of the strong link between the two fields to make further scientific progress. The school will cover both theoretical aspect of machine learning and statistics, and their deep link with physics, as well as the direct application of machine learning technics in physics, an activity that is currently whiteness a burst of activity. The format will be several (~10) 3h introductory lectures, and about twice as many contributed invited talks.
 
