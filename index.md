@@ -10,7 +10,7 @@ Florent Krzakala (EPFL, IdePhics Lab.), Lenka Zdeborova (EPFL, SPOC Lab.)
 You enjoy the school ? We organizers (Florent Krzakala and Lenka Zdeborova) are looking for postdocs to work on on these topics in EPFL in Lausanne. Come talk to us during the conference!
 
           
-<a href="https://twitter.com/intent/tweet?button_hashtag=cargese2018&ref_src=twsrc%5Etfw" class="twitter-hashtag-button" data-show-count="false">Tweet #cargese2018</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a href="https://twitter.com/intent/tweet?button_hashtag=cargese2023&ref_src=twsrc%5Etfw" class="twitter-hashtag-button" data-show-count="false">Tweet #cargese2023</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 More information on [the institute webpage](http://www.iesc.univ-corse.fr/index.php?id=1&L=1)
 
