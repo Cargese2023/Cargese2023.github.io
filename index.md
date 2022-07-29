@@ -15,6 +15,3 @@ You enjoy the school ? We organizers (Florent Krzakala and Lenka Zdeborova) are 
 More information on [the institute webpage](http://www.iesc.univ-corse.fr/index.php?id=1&L=1)
 
 ![program](cargese.jpg)
-
-
-![logo](logo.jpg)
