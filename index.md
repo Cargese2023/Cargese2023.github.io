@@ -6,8 +6,9 @@ The past decade brought a revolution to machine learning: algorithms are now abl
 # Organization Committee:
 Florent Krzakala (EPFL, IdePhics Lab.), Lenka Zdeborova (EPFL, SPOC Lab.)
 
-#  Announcement: <img src="wewant.jpg" alt="drawing" width="100"/>
-You enjoy the school ? We organizers (Florent Krzakala and Lenka Zdeborova) are looking for postdocs to work on on these topics in EPFL in Lausanne. Come talk to us during the conference!
+
+<>#  Announcement: <img src="wewant.jpg" alt="drawing" width="100"/>
+<>You enjoy the school ? We organizers (Florent Krzakala and Lenka Zdeborova) are looking for postdocs to work on on these topics in EPFL in Lausanne. <>Come talk to us during the conference! 
 
           
 <a href="https://twitter.com/intent/tweet?button_hashtag=cargese2023&ref_src=twsrc%5Etfw" class="twitter-hashtag-button" data-show-count="false">Tweet #cargese2023</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
