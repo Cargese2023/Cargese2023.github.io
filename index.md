@@ -4,7 +4,7 @@ The past decade brought a revolution to machine learning: algorithms are now abl
 
 
 # Organization Committee:
-Florent Krzakala (EPFL, IdePhics Lab.), Lenka Zdeborova (EPFL, SPOC Lab.)
+Florent Krzakala (EPFL, IdePhics Lab.), Lenka Zdeborova (EPFL, SPOC Lab.), Vittorio Erba (EPFL, SPOC Lab.), Damien Barbier (EPFL, IdePhics Lab.)
           
 <a href="https://twitter.com/intent/tweet?button_hashtag=cargese2023&ref_src=twsrc%5Etfw" class="twitter-hashtag-button" data-show-count="false">Tweet #cargese2023</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
