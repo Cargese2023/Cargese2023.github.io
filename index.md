@@ -8,46 +8,85 @@ __Organisers:__ Florent Krzakala (EPFL, IdePhics Lab.), Lenka Zdeborova (EPFL, S
 
 <div style="column-count: 5;">
 
-- Boaz Barak
-- Nati Srebro
-- Remi Monasson 
-- Yasaman Bahri 
-- Marc Mézard
-- Julia Kempe
-- Boris Hanin
-- Haim Sompolinsky 
-- Ahmed El Alaoui 
-- Cedric Gerbelot 
-- Antoine Maillard 
-- Cris Moore
-- Subhabrata Sen 
-- Cengiz Pehlevan 
-- Ilias Zadik 
-- Yue Lu 
-- Roberto Oliveira 
-- Joan Bruna 
-- Mark Sellke 
-- Guilhem Semerjian 
-- Bruno Loureiro 
-- Marylou Gabrie 
-- Sam Hopkins 
-- Surbi Goel 
-- Cindy Rush 
-- Allan Sly 
-- Matthieu Wyart 
-- Galen Reeves 
-- Theo Misiakiewicz
-- Alice Guionnet
-- Sebastian Goldt 
-- Riccardo Zecchina 
-- Giogrio Parisi 
-- Eric Vanden-Eijnden
-- David Gamarnik 
-- Soledad Villar 
-- Andrew Saxe 
-- Guy Bresler 
-- Pragya Sur
-- Suriya Gunasekar
+Boaz Barak
+
+Nati Srebro
+
+Remi Monasson 
+
+Yasaman Bahri 
+
+Marc Mézard
+
+Julia Kempe
+
+Boris Hanin
+
+Haim Sompolinsky 
+
+Ahmed El Alaoui 
+
+Cedric Gerbelot 
+
+Antoine Maillard 
+
+Cris Moore
+
+Subhabrata Sen 
+
+Cengiz Pehlevan 
+
+Ilias Zadik 
+
+Yue Lu 
+
+Roberto Oliveira 
+
+Joan Bruna 
+
+Mark Sellke 
+
+Guilhem Semerjian 
+
+Bruno Loureiro 
+
+Marylou Gabrie 
+
+Sam Hopkins 
+
+Surbi Goel 
+
+Cindy Rush 
+
+Allan Sly 
+
+Matthieu Wyart 
+
+Galen Reeves 
+
+Theo Misiakiewicz
+
+Alice Guionnet
+
+Sebastian Goldt 
+
+Riccardo Zecchina 
+
+Giogrio Parisi 
+
+Eric Vanden-Eijnden
+
+David Gamarnik 
+
+Soledad Villar 
+
+Andrew Saxe 
+
+Guy Bresler 
+
+Pragya Sur
+
+Suriya Gunasekar
 </div>
 
 <small>Last updated on 02/02/2023</small>
