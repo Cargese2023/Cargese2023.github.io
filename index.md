@@ -90,6 +90,7 @@ Pragya Sur
 Suriya Gunasekar
 </div>
 
+<br>
 <small>Last updated on 02/02/2023</small>
 
 # Registration
