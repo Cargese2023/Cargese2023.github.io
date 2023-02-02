@@ -8,84 +8,85 @@ __Organisers:__ Florent Krzakala (EPFL, IdePhics Lab.), Lenka Zdeborova (EPFL, S
 
 <div style="column-count: 5;">
 
+
 Boaz Barak
-
+<br>
 Nati Srebro
-
+<br>
 Remi Monasson 
-
+<br>
 Yasaman Bahri 
-
+<br>
 Marc Mézard
-
+<br>
 Julia Kempe
-
+<br>
 Boris Hanin
-
+<br>
 Haim Sompolinsky 
-
+<br>
 Ahmed El Alaoui 
-
+<br>
 Cedric Gerbelot 
-
+<br>
 Antoine Maillard 
-
+<br>
 Cris Moore
-
+<br>
 Subhabrata Sen 
-
+<br>
 Cengiz Pehlevan 
-
+<br>
 Ilias Zadik 
-
+<br>
 Yue Lu 
-
+<br>
 Roberto Oliveira 
-
+<br>
 Joan Bruna 
-
+<br>
 Mark Sellke 
-
+<br>
 Guilhem Semerjian 
-
+<br>
 Bruno Loureiro 
-
+<br>
 Marylou Gabrie 
-
+<br>
 Sam Hopkins 
-
+<br>
 Surbi Goel 
-
+<br>
 Cindy Rush 
-
+<br>
 Allan Sly 
-
+<br>
 Matthieu Wyart 
-
+<br>
 Galen Reeves 
-
+<br>
 Theo Misiakiewicz
-
+<br>
 Alice Guionnet
-
+<br>
 Sebastian Goldt 
-
+<br>
 Riccardo Zecchina 
-
+<br>
 Giogrio Parisi 
-
+<br>
 Eric Vanden-Eijnden
-
+<br>
 David Gamarnik 
-
+<br>
 Soledad Villar 
-
+<br>
 Andrew Saxe 
-
+<br>
 Guy Bresler 
-
+<br>
 Pragya Sur
-
+<br>
 Suriya Gunasekar
 </div>
 
