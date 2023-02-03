@@ -73,7 +73,7 @@ Sebastian Goldt
 <br>
 Riccardo Zecchina 
 <br>
-Giogrio Parisi 
+Giorgio Parisi 
 <br>
 Eric Vanden-Eijnden
 <br>
