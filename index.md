@@ -6,9 +6,52 @@ __Organisers:__ Florent Krzakala (EPFL, IdePhics Lab.), Lenka Zdeborova (EPFL, S
 
 # Confirmed speakers
 
-<div style="column-count: 5;">
+<div style="column-count: 3;">
 
+Yasaman 	Bahri	(Google) <br>
+Boaz 	Barak	(Harvard) <br>
+Gérard 	Ben Arous 	(NYU)<br>
+Guy 	Bresler	(MIT)<br>
+Joan 	Bruna	(NYU)<br>
+Ahmed 	El Alaoui	(Cornell) <br>
+Marylou 	Gabrié	(Polytechnique Paris) <br>
+David 	Gamarnik	(MIT)<br>
+Cedric 	Gerbelot	(NYU)<br>
+Surbi 	Goel	(UPenn)<br>
+Sebastian 	Goldt	(SISSA Trieste) <br>
+Alice 	Guionnet	(ENS Lyon) <br>
+Suriya 	Gunasekar	(Microsoft)<br>
+Boris 	Hanin	(Princeton) <br>
+Samuel 	Hopkins	(MIT)<br>
+Roberto 	Imbuzeiro Oliveira	(IMPA) <br>
+Julia 	Kempe	(NYU)<br>
+Bruno 	Loureiro 	(ENS Paris) <br>
+Yue	Lu	(Harvard) <br>
+Antoine 	Maillard	(ETH Zurich)<br>
+Marc 	Mézard	(Bocconi)<br>
+Theodor	Misiakiewicz	(Stanford) <br>
+Remi 	Monasson	(ENS Paris) <br>
+Cristopher 	Moore	(Santa Fe Institute)<br>
+Giogrio 	Parisi	(La Sapienza Roma) <br>
+Cengiz 	Pehlevan	(Harvard) <br>
+Galen 	Reeves	(Duke)<br>
+Cindy	Rush	(Columbia) <br>
+Andrew 	Saxe	(UCL)<br>
+Mark 	Sellke	(Harvard) <br>
+Guilhem 	Semerjian 	(ENS Paris) <br>
+Subhabrata 	Sen	(Harvard) <br>
+Allan 	Sly	(Princeton) <br>
+Haim 	Sompolinsky 	(Harvard & HUJI)<br>
+Nathan 	Srebro	(TTIC)<br>
+Pragya 	Sur	(Harvard) <br>
+Eric 	Vanden-Eijnden	(NYU)<br>
+Soledad 	Villar	(Johns Hopkins)<br>
+Matthieu 	Wyart 	(EPFL) <br>
+Ilias 	Zadik 	(MIT)<br>
+Riccardo 	Zecchina	(Bocconi)
 
+<<<<<<< HEAD
+=======
 Boaz Barak
 <br>
 Nati Srebro
@@ -88,6 +131,7 @@ Guy Bresler
 Pragya Sur
 <br>
 Suriya Gunasekar
+>>>>>>> 38ee7d1ce70e7288327d4b28c612526bbc933b67
 </div>
 
 <br>
@@ -113,20 +157,19 @@ cursor: pointer;
  Apply now!
 </button>](https://forms.gle/RQGbMxUyRjE8iXt27)
 
-__The deadline for application is COMPLETE__.
+__The deadline for application is March, 31st 2023.__.
 
 The selection of the participants will take place in the days following the deadline. 
-Applicants will be informed around __COMPLETE__. 
 
 # Practical informations
 
-The school and workshop cost is __COMPLETE__ per participant, covering __COMPLETE__. 
+The school and workshop cost is __TBA__ per participant, covering accommodation, lunches and breakfasts. 
 
 More information can be found on [the institute webpage](http://www.iesc.univ-corse.fr/index.php?id=1&L=1).
 
 # Contacts
 
-For any question, write __COMPLETE__.
+For any question, write __TBA__.
 
 Feel free to tweet about the school! 
 
