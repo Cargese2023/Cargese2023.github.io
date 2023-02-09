@@ -9,7 +9,6 @@ __Organisers:__ Florent Krzakala (EPFL, IdePhics Lab.), Lenka Zdeborova (EPFL, S
 <div style="column-count: 3;">
 
 Yasaman 	Bahri	(Google) <br>
-Boaz 	Barak	(Harvard) <br>
 Gérard 	Ben Arous 	(NYU)<br>
 Guy 	Bresler	(MIT)<br>
 Joan 	Bruna	(NYU)<br>
