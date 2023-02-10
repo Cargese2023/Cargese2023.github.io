@@ -92,6 +92,12 @@ Feel free to tweet about the school!
 
 
 
+### Sponsors
+
+  <img src="img/logo_CFM.jpg" alt="drawing" width="200"/><img src="https://www.myscience.ch/var/myscience/image/logo/snf_banner_fr.svg" alt="drawing" width="200"/><img src="https://upload.wikimedia.org/wikipedia/en/e/e9/European_Research_Council_logo.svg" alt="drawing" width="100"/><img src="https://anr.fr/typo3conf/ext/anr_skin/Resources/Public/assets/img/anr-logo-2021.png" alt="drawing" width="150"/><img src="https://upload.wikimedia.org/wikipedia/commons/f/f4/Logo_EPFL.svg" alt="drawing" width="150"/>
+<img src="img/IPHT.jpg" alt="drawing" width="150"/>
+
+
 <!-- # Organization Committee:
 Florent Krzakala (EPFL, IdePhics Lab.), Lenka Zdeborova (EPFL, SPOC Lab.), Vittorio Erba (EPFL, SPOC Lab.), Damien Barbier (EPFL, IdePhics Lab.)
            -->
@@ -99,3 +105,8 @@ Florent Krzakala (EPFL, IdePhics Lab.), Lenka Zdeborova (EPFL, SPOC Lab.), Vitto
 
 
 ![program](cargese.jpg)
+
+
+
+
+
