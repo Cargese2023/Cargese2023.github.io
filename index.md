@@ -107,6 +107,5 @@ Florent Krzakala (EPFL, IdePhics Lab.), Lenka Zdeborova (EPFL, SPOC Lab.), Vitto
 
 <img src="https://leshouches2022.github.io/img/logo_CFM.jpg" alt="drawing" width="200"/><img src="https://www.myscience.ch/var/myscience/image/logo/snf_banner_fr.svg" alt="drawing" width="200"/><img src="https://anr.fr/typo3conf/ext/anr_skin/Resources/Public/assets/img/anr-logo-2021.png" alt="drawing" width="150"/><img src="https://upload.wikimedia.org/wikipedia/commons/f/f4/Logo_EPFL.svg" alt="drawing" width="150"/>
 <img src="https://www.ipht.fr/Images/astImg/674/logo-ipht-couleur.png" alt="drawing" width="150"/>
-<img src="https://www.cnrs.fr/themes/custom/cnrs/logo.svg
-" alt="drawing" width="150"/>
+<img src="https://www.cnrs.fr/themes/custom/cnrs/logo.svg" alt="drawing" width="150"/>
 
