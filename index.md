@@ -82,9 +82,11 @@ The school and workshop cost is 1100 euros per participant, covering accommodati
 
 More information can be found on [the institute webpage](http://www.iesc.univ-corse.fr/index.php?id=1&L=1).
 
+The poster of the conference can be downloaded [here](Affiche-Cargese-2023.pdf)
+
 # Contacts
 
-For any question, write __TBA__.
+For any question, write [cargese2023@gmail.com](cargese2023@gmail.com).
 
 Feel free to tweet about the school! 
 
