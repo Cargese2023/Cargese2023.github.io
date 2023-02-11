@@ -86,7 +86,7 @@ The poster of the conference can be downloaded [here](Affiche-Cargese-2023.pdf)
 
 # Contacts
 
-For any question, write [cargese2023@gmail.com](cargese2023@gmail.com).
+For any question, write [cargese2023@gmail.com](mailto:cargese2023@gmail.com).
 
 Feel free to tweet about the school! 
 
