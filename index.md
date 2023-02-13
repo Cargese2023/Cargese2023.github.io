@@ -80,7 +80,7 @@ The selection of the participants will take place in the days following the dead
 
 The school and workshop cost is 1100 euros per participant, covering accommodation, lunches and breakfasts. 
 
-More information can be found on [the institute webpage](http://www.iesc.univ-corse.fr/index.php?id=1&L=1).
+More information can be found on [the institute webpage](https://iesc.universita.corsica/?lang=en).
 
 The poster of the event can be downloaded [here](Affiche-Cargese-2023.pdf)
 
