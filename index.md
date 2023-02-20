@@ -80,6 +80,8 @@ The selection of the participants will take place in the days following the dead
 
 The school and workshop cost is 1100 euros per participant, covering accommodation, lunches and breakfasts. 
 
+While participant can arrive on 31/7 and leave on 12/8, the conference will take place between 1/8 and 11/8.
+
 More information can be found on [the institute webpage](https://iesc.universita.corsica/?lang=en).
 
 The poster of the event can be downloaded [here](Affiche-Krzakala-2023.pdf)
