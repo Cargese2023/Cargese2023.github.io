@@ -49,7 +49,7 @@ Riccardo 	Zecchina	(Bocconi)
 </div>
 
 <br>
-<small>Last updated on 02/02/2023</small>
+<small>Last updated on 26/03/2023</small>
 
 # Registration
 
