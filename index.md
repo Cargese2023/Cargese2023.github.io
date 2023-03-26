@@ -39,7 +39,6 @@ Mark 	Sellke	(Harvard) <br>
 Guilhem 	Semerjian 	(ENS Paris) <br>
 Subhabrata 	Sen	(Harvard) <br>
 Allan 	Sly	(Princeton) <br>
-Haim 	Sompolinsky 	(Harvard & HUJI)<br>
 Nathan 	Srebro	(TTIC)<br>
 Pragya 	Sur	(Harvard) <br>
 Eric 	Vanden-Eijnden	(NYU)<br>
