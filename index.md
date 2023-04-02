@@ -53,27 +53,9 @@ Riccardo 	Zecchina	(Bocconi)
 
 # Registration
 
-To apply, please fill the online form clicking the _Apply now_ button below.
+Applications are closed.
 
-[<button style="
-display: inline-block; 
-border-radius: 0.317rem; 
-padding: 0.5rem 1rem;
-border: 0;
-background-color: #1fa3ec;
-color: #fff;
-text-decoration: none;
-font-weight: 700;
-font-size: 1.2rem;
-line-height: 1.5;
-cursor: pointer;
-">
- Apply now!
-</button>](https://forms.gle/RQGbMxUyRjE8iXt27)
-
-__The deadline for application is March, 31st 2023.__
-
-The selection of the participants will take place in the days following the deadline. 
+The selection of the participants will take place in the days following the deadline (31st March 2023). 
 
 # Practical informations
 
