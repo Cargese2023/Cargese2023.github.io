@@ -21,7 +21,6 @@ Sebastian 	Goldt	(SISSA Trieste) <br>
 Alice 	Guionnet	(ENS Lyon) <br>
 Suriya 	Gunasekar	(Microsoft)<br>
 Boris 	Hanin	(Princeton) <br>
-Samuel 	Hopkins	(MIT)<br>
 Roberto 	Imbuzeiro Oliveira	(IMPA) <br>
 Julia 	Kempe	(NYU)<br>
 Yue	Lu	(Harvard) <br>
