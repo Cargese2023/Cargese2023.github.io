@@ -29,7 +29,7 @@ Marc 	Mézard	(Bocconi)<br>
 Theodor	Misiakiewicz	(Stanford) <br>
 Remi 	Monasson	(ENS Paris) <br>
 Cristopher 	Moore	(Santa Fe Institute)<br>
-Giogrio 	Parisi	(La Sapienza Roma) <br>
+Giorgio 	Parisi	(La Sapienza Roma) <br>
 Cengiz 	Pehlevan	(Harvard) <br>
 Galen 	Reeves	(Duke)<br>
 Cindy	Rush	(Columbia) <br>
@@ -49,6 +49,73 @@ Riccardo 	Zecchina	(Bocconi)
 
 <br>
 <small>Last updated on 26/03/2023</small>
+
+# List of Participants
+
+<div style="column-count: 3;">
+
+Urte			Adomaityte			(King's College)<br>
+Francesco		Alemanno			(University of Bologna)<br>
+Miriam			Aquaro			    (Rome La Sapienza)<br>
+Scott			Armstrong			(NYU Courant)<br>
+Luca			Arnaboldi			(EPFL)<br>
+Freya			Behrens			    (EPFL)<br>
+Pierfrancesco	Beneventano		    (Princeton)<br>
+Stefan			Boettcher			(Emory)<br>
+Blake			Bordelon			(Harvard)<br>
+Zhengdao		Chen			    (Google)<br>
+Lucas			Clarte			    (EPFL)<br>
+Hugo			Cui			        (EPFL)<br>
+Alex			Damian			    (Princeton)<br>
+Yatin			Dandi			    (EPFL)<br>
+Anna			Dawid			    (Flatiron)<br>
+Elizaveta		Demyanenko			(Bocconi)<br>
+Daniil			Dmitriev			(ETH Zurich)<br>
+Odilon			Duranthon			(EPFL)<br>
+Kirsten			Fischer			    (Juelich Research Center)<br>
+Federica		Gerace			    (SISSA Trieste)<br>
+Davide			Ghio			    (EPFL)<br>
+Mengjian		Hua			        (NYU Courant)<br>
+Brice			Huang			    (MIT)<br>
+Chris			Jones			    (Bocconi)<br>
+Nirmit			Joshi			    (Toyota Technological Institute Chicago)<br>
+Christian		Keup			    (EPFL)<br>
+Justin			Ko			        (ENS Lyon)<br>
+Dmitry			Krotov			    (IBM Research)<br>
+Clarissa		Lauditi			    (Politecnico Turin)<br>
+Stephan			Ludovic			    (EPFL)<br>
+Pierre			Mergny			    (EPFL)<br>
+Omar			Montasser			(TTIC)<br>
+Jean-Christophe	Mourrat			    (ENS Lyon and CNRS)<br>
+Aris			Moustakas			(National Kapodistrian University of Athens)<br>
+Matteo			Negri			    (Rome La Sapienza)<br>
+Ari			    Pakman			    (Ben-Gurion University)<br>
+Luca			Pesce			    (EPFL)<br>
+Arianna			Piana			    (Weizmann Institute)<br>
+Giovanni		Piccioli			(EPFL)<br>
+Vanessa			Piccolo			    (ENS Lyon)<br>
+Fabrizio		Pittorino			(Bocconi)<br>
+Riccardo		Rossetti			(Duke)<br>
+Mahalakshmi		Sabanayagam		    (TU Munich)<br>
+Stefano			Sarao Mannelli		(Gatsby & SWC Universtiy College London)<br>
+Christoph		Schönle			    (École Polytechnique (CMAP))<br>
+Inbar			Seroussi			(Tel-Aviv University)<br>
+Cheng			Shi			        (University of Basel)<br>
+Jamie			Simon			    (UC Berkeley)<br>
+Serfaty			Sylvia			    (NYU Courant Institut)<br>
+Umberto			Tomasini			(EPFL)<br>
+Emanuele		Troiani			    (EPFL)<br>
+Nikolaos		Tsilivis			(NYU)<br>
+Aditya			Varre			    (EPFL)<br>
+Maksim			Velikanov			(Technology Innovation Institute)<br>
+Matteo			Vilucchio			(EPFL)<br>
+Atsushi			Yamamura			(Stanford)<br>
+Jacob			Zavatone-Veth		(Harvard)<br>
+Alexander		Zlokapa			    (MIT)<br>
+</div>
+
+<br>
+<small>Last updated on 19/06/2023</small>
 
 # Registration
 
