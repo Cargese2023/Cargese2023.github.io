@@ -21,15 +21,15 @@ Sebastian 	Goldt	(SISSA Trieste) <br>
 Alice 	Guionnet	(ENS Lyon) <br>
 Suriya 	Gunasekar	(Microsoft)<br>
 Boris 	Hanin	(Princeton) <br>
-Roberto 	Imbuzeiro Oliveira	(IMPA) <br>
+<!-- Roberto 	Imbuzeiro Oliveira	(IMPA) <br> -->
 Julia 	Kempe	(NYU)<br>
 Yue	Lu	(Harvard) <br>
 Antoine 	Maillard	(ETH Zurich)<br>
-Marc 	Mézard	(Bocconi)<br>
+<!-- Marc 	Mézard	(Bocconi)<br> -->
 Theodor	Misiakiewicz	(Stanford) <br>
 Remi 	Monasson	(ENS Paris) <br>
 Cristopher 	Moore	(Santa Fe Institute)<br>
-Giorgio 	Parisi	(La Sapienza Roma) <br>
+<!-- Giorgio 	Parisi	(La Sapienza Roma) <br> -->
 Cengiz 	Pehlevan	(Harvard) <br>
 Galen 	Reeves	(Duke)<br>
 Cindy	Rush	(Columbia) <br>
@@ -48,7 +48,7 @@ Riccardo 	Zecchina	(Bocconi)
 </div>
 
 <br>
-<small>Last updated on 26/03/2023</small>
+<small>Last updated on 02/07/2023</small>
 
 # List of Participants
 
@@ -75,17 +75,18 @@ Odilon			Duranthon			(EPFL)<br>
 Kirsten			Fischer			    (Juelich Research Center)<br>
 Federica		Gerace			    (SISSA Trieste)<br>
 Davide			Ghio			    (EPFL)<br>
+Mortiz          Haas                (University of Tübingen)<br>
 Mengjian		Hua			        (NYU Courant)<br>
 Brice			Huang			    (MIT)<br>
 Chris			Jones			    (Bocconi)<br>
 Nirmit			Joshi			    (Toyota Technological Institute Chicago)<br>
 Christian		Keup			    (EPFL)<br>
 Justin			Ko			        (ENS Lyon)<br>
-Dmitry			Krotov			    (IBM Research)<br>
 Clarissa		Lauditi			    (Politecnico Turin)<br>
+Noam            Levi                (Tel Aviv University)<br>
+Mufan           Li                  (University of Toronto)<br>
 Stephan			Ludovic			    (EPFL)<br>
 Pierre			Mergny			    (EPFL)<br>
-Omar			Montasser			(TTIC)<br>
 Jean-Christophe	Mourrat			    (ENS Lyon and CNRS)<br>
 Aris			Moustakas			(National Kapodistrian University of Athens)<br>
 Matteo			Negri			    (Rome La Sapienza)<br>
@@ -102,11 +103,12 @@ Christoph		Schönle			    (École Polytechnique (CMAP))<br>
 Inbar			Seroussi			(Tel-Aviv University)<br>
 Cheng			Shi			        (University of Basel)<br>
 Jamie			Simon			    (UC Berkeley)<br>
-Serfaty			Sylvia			    (NYU Courant Institut)<br>
+Sylvia          Serfaty				(NYU Courant Institut)<br>
 Umberto			Tomasini			(EPFL)<br>
 Emanuele		Troiani			    (EPFL)<br>
 Nikolaos		Tsilivis			(NYU)<br>
 Aditya			Varre			    (EPFL)<br>
+Rodrigo         Veiga               (EPFL)<br>
 Maksim			Velikanov			(Technology Innovation Institute)<br>
 Matteo			Vilucchio			(EPFL)<br>
 Atsushi			Yamamura			(Stanford)<br>
@@ -115,7 +117,7 @@ Alexander		Zlokapa			    (MIT)<br>
 </div>
 
 <br>
-<small>Last updated on 19/06/2023</small>
+<small>Last updated on 02/07/2023</small>
 
 # Registration
 
