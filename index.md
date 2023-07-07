@@ -16,7 +16,7 @@ Ahmed 	El Alaoui	(Cornell) <br>
 Marylou 	Gabrié	(Polytechnique Paris) <br>
 David 	Gamarnik	(MIT)<br>
 Cedric 	Gerbelot	(NYU)<br>
-Surbi 	Goel	(UPenn)<br>
+<!-- Surbi 	Goel	(UPenn)<br> -->
 Sebastian 	Goldt	(SISSA Trieste) <br>
 Alice 	Guionnet	(ENS Lyon) <br>
 Suriya 	Gunasekar	(Microsoft)<br>
@@ -48,15 +48,15 @@ Riccardo 	Zecchina	(Bocconi)
 </div>
 
 <br>
-<small>Last updated on 02/07/2023</small>
+<small>Last updated on 07/07/2023</small>
 
 # List of Participants
 
 <div style="column-count: 3;">
 
 Urte			Adomaityte			(King's College)<br>
-Francesco		Alemanno			(University of Bologna)<br>
-Miriam			Aquaro			    (Rome La Sapienza)<br>
+<!-- Francesco		Alemanno			(University of Bologna)<br>
+Miriam			Aquaro			    (Rome La Sapienza)<br> -->
 Scott			Armstrong			(NYU Courant)<br>
 Luca			Arnaboldi			(EPFL)<br>
 Freya			Behrens			    (EPFL)<br>
@@ -117,7 +117,7 @@ Alexander		Zlokapa			    (MIT)<br>
 </div>
 
 <br>
-<small>Last updated on 02/07/2023</small>
+<small>Last updated on 07/07/2023</small>
 
 # Registration
 
