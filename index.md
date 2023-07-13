@@ -4,6 +4,12 @@ The past decade brought a revolution to machine learning: algorithms are now abl
 
 __Organisers:__  Damien Barbier (EPFL, IdePhics Lab.), Vittorio Erba (EPFL, SPOC Lab.), Florent Krzakala (EPFL, IdePhics Lab.), Bruno Loureiro (ENS, Paris), Lenka Zdeborova (EPFL, SPOC Lab.) 
 
+# Schedule
+
+The current program of the school:
+
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=Europe%2FZurich&mode=WEEK&src=Y2FyZ2VzZTIwMjNAZ21haWwuY29t&color=%23039BE5" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
 # Confirmed speakers
 
 <div style="column-count: 3;">
@@ -16,20 +22,16 @@ Ahmed 	El Alaoui	(Cornell) <br>
 Marylou 	Gabrié	(Polytechnique Paris) <br>
 David 	Gamarnik	(MIT)<br>
 Cedric 	Gerbelot	(NYU)<br>
-<!-- Surbi 	Goel	(UPenn)<br> -->
 Sebastian 	Goldt	(SISSA Trieste) <br>
 Alice 	Guionnet	(ENS Lyon) <br>
 Suriya 	Gunasekar	(Microsoft)<br>
 Boris 	Hanin	(Princeton) <br>
-<!-- Roberto 	Imbuzeiro Oliveira	(IMPA) <br> -->
 Julia 	Kempe	(NYU)<br>
 Yue	Lu	(Harvard) <br>
 Antoine 	Maillard	(ETH Zurich)<br>
-<!-- Marc 	Mézard	(Bocconi)<br> -->
 Theodor	Misiakiewicz	(Stanford) <br>
 Remi 	Monasson	(ENS Paris) <br>
 Cristopher 	Moore	(Santa Fe Institute)<br>
-<!-- Giorgio 	Parisi	(La Sapienza Roma) <br> -->
 Cengiz 	Pehlevan	(Harvard) <br>
 Galen 	Reeves	(Duke)<br>
 Cindy	Rush	(Columbia) <br>
@@ -47,16 +49,11 @@ Ilias 	Zadik 	(MIT)<br>
 Riccardo 	Zecchina	(Bocconi)
 </div>
 
-<br>
-<small>Last updated on 07/07/2023</small>
-
 # List of Participants
 
 <div style="column-count: 3;">
 
 Urte			Adomaityte			(King's College)<br>
-<!-- Francesco		Alemanno			(University of Bologna)<br>
-Miriam			Aquaro			    (Rome La Sapienza)<br> -->
 Scott			Armstrong			(NYU Courant)<br>
 Luca			Arnaboldi			(EPFL)<br>
 Freya			Behrens			    (EPFL)<br>
@@ -116,14 +113,11 @@ Jacob			Zavatone-Veth		(Harvard)<br>
 Alexander		Zlokapa			    (MIT)<br>
 </div>
 
-<br>
-<small>Last updated on 07/07/2023</small>
-
 # Registration
 
 Applications are closed.
 
-The selection of the participants will take place in the days following the deadline (31st March 2023). 
+<!-- The selection of the participants will take place in the days following the deadline (31st March 2023).  -->
 
 # Practical informations
 
