@@ -14,7 +14,6 @@ The current program of the school:
 
 <div style="column-count: 3;">
 
-Yasaman 	Bahri	(Google) <br>
 Gérard 	Ben Arous 	(NYU)<br>
 Guy 	Bresler	(MIT)<br>
 Joan 	Bruna	(NYU)<br>
