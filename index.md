@@ -10,8 +10,6 @@ The current program of the school:
 
 <iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=Europe%2FZurich&mode=WEEK&src=Y2FyZ2VzZTIwMjNAZ21haWwuY29t&color=%23039BE5" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
-![Group Photo]([/path/to/image.png](https://github.com/Cargese2023/Cargese2023.github.io/blob/main/Photo-Conf.jpg
-) "A nice day in cargese!").
 
 
 # Confirmed speakers
@@ -141,6 +139,7 @@ Feel free to tweet about the school!
 <a href="https://twitter.com/intent/tweet?button_hashtag=cargese2023&ref_src=twsrc%5Etfw" class="twitter-hashtag-button" data-show-count="false"> #cargese2023</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
+![Group Photo](https://github.com/Cargese2023/Cargese2023.github.io/blob/main/Photo-Conf.jpg)
 
 
 
