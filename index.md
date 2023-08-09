@@ -61,6 +61,7 @@ Freya			Behrens			    (EPFL)<br>
 Pierfrancesco	Beneventano		    (Princeton)<br>
 Stefan			Boettcher			(Emory)<br>
 Blake			Bordelon			(Harvard)<br>
+Brujic			Jasna			(NYU)<br>
 Zhengdao		Chen			    (Google)<br>
 Lucas			Clarte			    (EPFL)<br>
 Hugo			Cui			        (EPFL)<br>
