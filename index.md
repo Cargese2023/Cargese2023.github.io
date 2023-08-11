@@ -7,7 +7,7 @@ __Organisers:__  Damien Barbier (EPFL, IdePhics Lab.), Vittorio Erba (EPFL, SPOC
 # Schedule
 
 Some of the slides of the talks can be found 
-[here](https://github.com/Cargese2023/Cargese2023.github.io/slides).
+[here](https://github.com/Cargese2023/Cargese2023.github.io/tree/main/slides).
 
 
 The current program of the school:
