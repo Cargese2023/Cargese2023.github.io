@@ -9,12 +9,16 @@ __Organisers:__  Damien Barbier (EPFL, IdePhics Lab.), Vittorio Erba (EPFL, SPOC
 Some of the slides of the talks can be found 
 [here](https://github.com/Cargese2023/Cargese2023.github.io/tree/main/slides).
 
+The program of the school:
 
-The current program of the school:
+![Program1](program1.png)
 
-<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=Europe%2FZurich&mode=WEEK&src=Y2FyZ2VzZTIwMjNAZ21haWwuY29t&color=%23039BE5" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+![Program2](program2.png)
 
-# Confirmed speakers
+<!-- 
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=Europe%2FZurich&mode=WEEK&src=Y2FyZ2VzZTIwMjNAZ21haWwuY29t&color=%23039BE5" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe> -->
+
+# Invited speakers
 
 <div style="column-count: 3;">
 
@@ -30,6 +34,7 @@ Alice 	Guionnet	(ENS Lyon) <br>
 Suriya 	Gunasekar	(Microsoft)<br>
 Boris 	Hanin	(Princeton) <br>
 Julia 	Kempe	(NYU)<br>
+Bruno Loureiro (ENS Paris)<br>
 Yue	Lu	(Harvard) <br>
 Antoine 	Maillard	(ETH Zurich)<br>
 Theodor	Misiakiewicz	(Stanford) <br>
@@ -44,6 +49,7 @@ Guilhem 	Semerjian 	(ENS Paris) <br>
 Subhabrata 	Sen	(Harvard) <br>
 Allan 	Sly	(Princeton) <br>
 Nathan 	Srebro	(TTIC)<br>
+Ludovic Stephan (EPFL)<br>
 Pragya 	Sur	(Harvard) <br>
 Eric 	Vanden-Eijnden	(NYU)<br>
 Soledad 	Villar	(Johns Hopkins)<br>
@@ -51,6 +57,38 @@ Matthieu 	Wyart 	(EPFL) <br>
 Ilias 	Zadik 	(MIT)<br>
 Riccardo 	Zecchina	(Bocconi)
 </div>
+
+# Contributed speakers
+
+<div style="column-count: 3;">
+
+Demian Barbier (EPFL)<br>
+Freya	Behrens (EPFL)<br>
+Stefan	Boettcher (Emory)<br>
+Zhengdao	Chen (Google)<br>
+Lucas	Clarte (EPFL)<br>
+Hugo	Cui (EPFL)<br>
+Alex	Damian (Princeton)<br>
+Yatin	Dandi    (EPFL)<br>
+Anna	Dawid (Flatiron)<br>
+Vittorio Erba (EPFL)<br>
+Federica	Gerace (SISSA Trieste)<br>
+Davide	Ghio (EPFL)<br>
+Brice	Huang (MIT)<br>
+Justin	Ko (ENS Lyon)<br>
+Jean-Christophe	Mourrat (ENS Lyon and CNRS)<br>
+Aris	Moustakas (National Kapodistrian University of Athens)<br>
+Matteo	Negri (Rome La Sapienza)<br>
+Ari	Pakman (Ben-Gurion University)<br>
+Fabrizio	Pittorino (Bocconi)<br>
+Stefano	Sarao Mannelli (Gatsby & SWC Universtiy College London)<br>
+Inbar	Seroussi (Tel-Aviv University)<br>
+Jamie	Simon (UC Berkeley)<br>
+Umberto	Tomasini (EPFL)<br>
+Jacob	Zavatone-Veth (Harvard)<br>
+
+</div>
+
 
 # List of Participants
 
