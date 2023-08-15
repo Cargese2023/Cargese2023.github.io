@@ -163,7 +163,7 @@ Applications are closed.
 
 # Practical informations
 
-The workshop cost is 1100 euros per participant, covering accommodation, dinners and breakfasts. 
+The workshop cost is 1100 euros per participant, covering accommodation, lunches and breakfasts. 
 
 While participant can arrive on 31/7 and leave on 12/8, the conference will take place between 1/8 and 11/8.
 
