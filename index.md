@@ -9,7 +9,7 @@ __Organisers:__  Damien Barbier (EPFL, IdePhics Lab.), Vittorio Erba (EPFL, SPOC
 Some of the slides of the talks can be found 
 [here](https://github.com/Cargese2023/Cargese2023.github.io/tree/main/slides).
 
-The program of the school:
+The program of the workshop:
 
 ![Program1](program1.png)
 
@@ -163,7 +163,7 @@ Applications are closed.
 
 # Practical informations
 
-The school and workshop cost is 1100 euros per participant, covering accommodation, lunches and breakfasts. 
+The workshop cost is 1100 euros per participant, covering accommodation, lunches and breakfasts. 
 
 While participant can arrive on 31/7 and leave on 12/8, the conference will take place between 1/8 and 11/8.
 
@@ -175,7 +175,7 @@ The poster of the event can be downloaded [here](Affiche-Krzakala-2023.pdf)
 
 For any question, write [cargese2023@gmail.com](mailto:cargese2023@gmail.com).
 
-Feel free to tweet about the school! 
+Feel free to tweet about the workshop! 
 
 <a href="https://twitter.com/intent/tweet?button_hashtag=cargese2023&ref_src=twsrc%5Etfw" class="twitter-hashtag-button" data-show-count="false"> #cargese2023</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
